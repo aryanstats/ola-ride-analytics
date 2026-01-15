@@ -29,4 +29,4 @@ Analyzed 100,000 OLA ride bookings (Bengaluru, December 2025) using SQL and Powe
 - Screenshots in `/screenshots`
 
 ## Author
-Aryan Singh
+Aryan Harsh
